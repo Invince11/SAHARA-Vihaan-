@@ -1,0 +1,18 @@
+# NOTE 
+ 
+ 1. IMAGE CAPTIONING 
+
+We wanted to generate captions from image but the training of the RNN and LSTM model for this would take 1-2 weeks to train. Thus, as of now we did object detection.
+
+
+2. NAVIGATION
+
+Use of google map navigation was to be used.
+
+3. RASPBERRY PI
+
+Use of raspberry pi and bluetooth ear phones along with mic would make it a perfect hardware solution.
+
+
+
+DUE TO LACK OF TIME AND INTEGRATING SKILLS WE WERE ABLE TO PROVIDE A VAGUE SOLUTION FOR THE PROTOTYPE WE WISHED TO PITCH.
