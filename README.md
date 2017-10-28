@@ -15,3 +15,4 @@ All this iot part is handled by the raspberry pi.
  The second component which we provide is a smart specs. The specs is equipped with picam which takes image and through computer vision and machine learning technology the image processing is done and the data conveyed by image is transferred to user in form of speech and complete process is supported through  raspberry pi.
 Also the specs can be used to implement facial expressions in which persons mood through his expressions will be analysed and will be converted to speech and provided to the user.
 
+![Alt text](https://github.com/Invince11/Vihaan-/blob/master/spec.png)
